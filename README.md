@@ -2,4 +2,4 @@
 
 A simple Flutter project to test flutter web.
 
-Demo: UTL: https://flutter-web-responsive-ui.web.app
+Demo URL: https://flutter-web-responsive-ui.web.app
