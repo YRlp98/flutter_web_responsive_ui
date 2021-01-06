@@ -1,4 +1,4 @@
-# yrlp_flutter
+# flutter_web_responsive_ui
 
 A new Flutter project.
 
